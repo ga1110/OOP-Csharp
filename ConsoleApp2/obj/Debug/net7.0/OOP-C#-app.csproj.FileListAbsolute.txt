@@ -1,0 +1,15 @@
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\bin\Debug\net7.0\OOP-C#-app.exe
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\bin\Debug\net7.0\OOP-C#-app.deps.json
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\bin\Debug\net7.0\OOP-C#-app.runtimeconfig.json
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\bin\Debug\net7.0\OOP-C#-app.dll
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\bin\Debug\net7.0\OOP-C#-app.pdb
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.AssemblyInfoInputs.cache
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.AssemblyInfo.cs
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.csproj.CoreCompileInputs.cache
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.sourcelink.json
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.dll
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\refint\OOP-C#-app.dll
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.pdb
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\OOP-C#-app.genruntimeconfig.cache
+F:\Study\Задачи c++\C#\OOP-Csharp\ConsoleApp2\obj\Debug\net7.0\ref\OOP-C#-app.dll

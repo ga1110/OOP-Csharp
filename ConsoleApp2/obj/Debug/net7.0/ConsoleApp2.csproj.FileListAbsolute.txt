@@ -1,0 +1,14 @@
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+F:\Проекты VS\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll
